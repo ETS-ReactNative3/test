@@ -43,7 +43,7 @@ class Main extends Component {
       <Row>
         <Col lg={5}>
           <Repair>Качественный ремонт
-            <span> iphone 5 35 минут и гарантия 1 год</span>
+            <span> iphone 5 за 35 минут и гарантия 1 год</span>
           </Repair>
           <LightText>
             Оставьте заявку на бесплатную диагностику без очереди,
